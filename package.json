@@ -1,0 +1,26 @@
+{
+  "name": "sequlize",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest",
+    "test:report": "jest --coverage=true"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ibowers18/Sequlize.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Ibowers18/Sequlize/issues"
+  },
+  "homepage": "https://github.com/Ibowers18/Sequlize#readme",
+  "dependencies": {
+    "jest": "^27.4.3",
+    "sequelize": "^6.12.0-alpha.1",
+    "sqlite3": "^5.0.2"
+  }
+}
